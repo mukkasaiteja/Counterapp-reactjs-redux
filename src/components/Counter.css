@@ -1,0 +1,31 @@
+*{
+    background-color: black;
+}
+div{
+  color: white;
+    background-color: blue;
+    margin: 100px auto ;
+    text-align: center;
+    width: 400px;
+    
+}
+button{
+    color: white;
+    margin: 20px;
+    padding: 40px ;
+}
+.value{
+    color: white;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    width: 200px;
+    border: 1px solid black;
+}
+.fa-solid{
+    font-size: 40px;
+}
+h1{
+    background-color: brown;
+    border: 1px solid white;
+}
